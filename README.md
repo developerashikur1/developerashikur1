@@ -80,9 +80,19 @@ I'm a full-stack developer who is passionate about making contributing to open-s
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerashikur1&show_icons=true&theme=tokyonight)
 
 <br/>
-
+<!--
 ### Github Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{developerashikur1}/count.svg)
+-->
+
+<h6 align="right">
+
+[![](https://visitcount.itsvg.in/api?id=BrunoOliveiraS&label=%F0%9F%91%80&color=9&icon=2&pretty=false)](https://profile-counter.glitch.me/{developerashikur1}/count.svg)
+
+</h6>
+
+
+
 
 <!--
 **developerashikur1/developerashikur1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
