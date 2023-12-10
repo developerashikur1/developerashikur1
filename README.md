@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/developerashikur1/developerashikur1/main/developerashikur1.png" alt="banner that says Ashikur Rahman - full-stack developer">
+<img src="https://raw.githubusercontent.com/developerashikur1/developerashikur1/main/gh-developerashikur1.png" alt="banner that says Ashikur Rahman - full-stack developer">
 I'm a full-stack developer who is passionate about making contributing to open-source more approachable, creating applications to elevate people, and building community. Some technologies I enjoy working with include ReactJS, NextJS (JavaScript, APIs + Markup), and NodeJS. My interest in the React ecosystem led me to launch <a href="#">A 3R</a>, a community for ReactJS developers.
 
 <!--
