@@ -22,6 +22,11 @@ I'm a full-stack developer who is passionate about making contributing to open-s
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerashikur1&show_icons=true&theme=tokyonight)
 
+<br/>
+
+### Github Visitors
+![Visitor Count](https://profile-counter.glitch.me/{developerashikur1}/count.svg)
+
 <!--
 **developerashikur1/developerashikur1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
