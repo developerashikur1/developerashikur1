@@ -16,6 +16,9 @@ I'm a full-stack developer who is passionate about making contributing to open-s
 
 - ⚡ Fun fact: I use tabs over spaces  
   
+<br/>
+
+<hr/>
 
 <br/>  
 
