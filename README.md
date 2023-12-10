@@ -41,12 +41,15 @@ I'm a full-stack developer who is passionate about making contributing to open-s
  
 </p>
 
+<!--
 <br/>
 
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
 </p>
+
+-->
 
 <hr/>
 
