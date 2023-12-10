@@ -85,6 +85,7 @@ I'm a full-stack developer who is passionate about making contributing to open-s
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="developerashikur1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=developerashikur1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
+<!--
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
@@ -103,7 +104,9 @@ I'm a full-stack developer who is passionate about making contributing to open-s
   -->
 
   <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
+  <!--
   <a href="https://github.com/sponsors/DenverCoder1/"><img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/metrics-sponsors.svg" /></a>
+  -->
 
 </details>
 
