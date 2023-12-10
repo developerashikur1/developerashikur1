@@ -88,15 +88,19 @@ I'm a full-stack developer who is passionate about making contributing to open-s
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
+<!--
 
 1. 🗣 Commented on [#9500](https://github.com/simple-icons/simple-icons/issues/9500) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 2. 🗣 Commented on [#9687](https://github.com/simple-icons/simple-icons/issues/9687) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 3. 🎉 Merged PR [#626](https://github.com/DenverCoder1/github-readme-streak-stats/pull/626) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 4. 🗣 Commented on [#457](https://github.com/biati-digital/glightbox/issues/457) in [biati-digital/glightbox](https://github.com/biati-digital/glightbox)
 5. 🗣 Commented on [#626](https://github.com/DenverCoder1/github-readme-streak-stats/issues/626) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+  -->
 <!--END_SECTION:activity-->
 
+<!--
   <h3>🌟 Sponsors</h3>
+  -->
 
   <!-- https://github.com/lowlighter/metrics/blob/master/source/plugins/sponsors/README.md -->
   <a href="https://github.com/sponsors/DenverCoder1/"><img src="https://raw.githubusercontent.com/DenverCoder1/DenverCoder1/main/metrics-sponsors.svg" /></a>
